@@ -1,10 +1,10 @@
 ---
-title: "Great TinyML needs high quality data"
+title: "Great TinyML needs high-quality data"
 subtitle: ""
 heroImage: ""
 date: 2021-08-17T11:44:02+01:00
 draft: false
-socialTitle: "Great TinyML needs high quality data"
+socialTitle: "Great TinyML needs high-quality data"
 socialDescription: "Curating high-quality training datasets, building data unit tests and dealing with the pitfalls of public datasets — these are some of the components of our tiny AI model factory."
 socialImage: "images/tinyml-data/plumeraidata.jpg"
 ---
